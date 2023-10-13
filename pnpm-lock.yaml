@@ -9,6 +9,7 @@ specifiers:
   babel-plugin-styled-components: 1.13.2
   build: 0.1.4
   chalk: 4.1.0
+  cowin-dashboard: 'link:'
   eslint-config-airbnb: 18.2.1
   eslint-config-prettier: 8.1.0
   eslint-plugin-prettier: 3.3.1
@@ -35,6 +36,7 @@ dependencies:
   agent: 0.2.1
   build: 0.1.4
   chalk: 4.1.0
+  cowin-dashboard: 'link:'
   gh-pages: 3.2.3
   jest-styled-components: 7.0.5_styled-components@5.3.0
   msw: 0.33.3
