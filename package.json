@@ -1,7 +1,7 @@
 {
   "homepage": "https://David-shankar.github.io/cowinDashboard",
   "name": "cowin-dashboard",
-  "private": true,
+  "private": false,
   "version": "1.0.0",
   "engines": {
     "node": "^10.13 || 12 || 14 || 15",
@@ -16,7 +16,6 @@
     "build": "0.1.4",
     "chalk": "4.1.0",
     "cowin-dashboard": "link:",
-    "gh-pages": "^3.2.3",
     "jest-styled-components": "7.0.5",
     "msw": "0.33.3",
     "react": "17.0.1",
@@ -31,7 +30,7 @@
     "eslint-config-airbnb": "18.2.1",
     "eslint-config-prettier": "8.1.0",
     "eslint-plugin-prettier": "3.3.1",
-    "gh-pages": "6.0.0",
+    "gh-pages": "^3.2.3",
     "husky": "4.3.8",
     "lint-staged": "10.5.4",
     "npm-run-all": "4.1.5",
