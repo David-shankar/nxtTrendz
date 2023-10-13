@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/cowinDashboard/build/static/css/main.3d297b47.chunk.css",
+    "main.js": "/cowinDashboard/build/static/js/main.97c31756.chunk.js",
+    "main.js.map": "/cowinDashboard/build/static/js/main.97c31756.chunk.js.map",
+    "runtime-main.js": "/cowinDashboard/build/static/js/runtime-main.fc432e46.js",
+    "runtime-main.js.map": "/cowinDashboard/build/static/js/runtime-main.fc432e46.js.map",
+    "static/js/2.a6a7713d.chunk.js": "/cowinDashboard/build/static/js/2.a6a7713d.chunk.js",
+    "static/js/2.a6a7713d.chunk.js.map": "/cowinDashboard/build/static/js/2.a6a7713d.chunk.js.map",
+    "index.html": "/cowinDashboard/build/index.html",
+    "static/css/main.3d297b47.chunk.css.map": "/cowinDashboard/build/static/css/main.3d297b47.chunk.css.map",
+    "static/js/2.a6a7713d.chunk.js.LICENSE.txt": "/cowinDashboard/build/static/js/2.a6a7713d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fc432e46.js",
+    "static/js/2.a6a7713d.chunk.js",
+    "static/css/main.3d297b47.chunk.css",
+    "static/js/main.97c31756.chunk.js"
+  ]
+}
