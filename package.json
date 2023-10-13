@@ -1,7 +1,8 @@
 {
-  "homepage": "https://David-shankar.github.io/cowinDashboard",
+  
   "name": "cowin-dashboard",
-  "private": false,
+  "private": true,
+  "homepage": "https://David-shankar.github.io/cowinDashboard",
   "version": "1.0.0",
   "engines": {
     "node": "^10.13 || 12 || 14 || 15",
